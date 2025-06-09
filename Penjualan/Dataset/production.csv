@@ -1,0 +1,6 @@
+production_id,product_id,product_name,category,production_date,quantity_produced,production_cost,factory_location
+PRD001,P1,Laptop X1,Elektronik,2025-01-10,500,450.50,Factory A
+PRD002,P1,Laptop X1,Elektronik,2025-02-15,300,460.00,Factory B
+PRD003,P2,T-Shirt Basic,Pakaian,2025-01-20,1000,5.20,Factory C
+PRD004,P3,Choco Bar,Makanan,2025-03-01,2000,1.10,Factory A
+PRD005,P2,T-Shirt Basic,Pakaian,2025-03-10,800,5.00,Factory C

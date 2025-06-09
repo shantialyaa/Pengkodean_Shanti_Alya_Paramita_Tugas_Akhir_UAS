@@ -1,0 +1,6 @@
+inventory_id,product_id,product_name,warehouse_id,warehouse_location,stock_date,stock_quantity,min_stock_level
+INV001,P1,Laptop X1,WH1,Warehouse Jakarta,2025-02-01,400,100
+INV002,P1,Laptop X1,WH2,Warehouse Singapore,2025-02-01,200,50
+INV003,P2,T-Shirt Basic,WH3,Warehouse Bandung,2025-02-15,1200,200
+INV004,P3,Choco Bar,WH1,Warehouse Jakarta,2025-03-05,1500,300
+INV005,P2,T-Shirt Basic,WH3,Warehouse Bandung,2025-03-15,900,200

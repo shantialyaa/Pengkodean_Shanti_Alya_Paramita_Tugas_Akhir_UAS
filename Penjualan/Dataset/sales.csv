@@ -1,0 +1,6 @@
+sale_id,product_id,product_name,sale_date,quantity_sold,sale_price,region,customer_type
+SALE001,P1,Laptop X1,2025-02-10,100,600.00,Asia,Retail
+SALE002,P1,Laptop X1,2025-02-20,50,580.00,Eropa,Wholesale
+SALE003,P2,T-Shirt Basic,2025-02-25,500,10.00,Asia,Retail
+SALE004,P3,Choco Bar,2025-03-10,800,2.00,Amerika,Retail
+SALE005,P2,T-Shirt Basic,2025-03-15,300,9.50,Asia,Wholesale
